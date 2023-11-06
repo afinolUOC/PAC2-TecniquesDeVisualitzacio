@@ -11,7 +11,7 @@ Visualització: https://public.flourish.studio/visualisation/15603405/
 
 Font: https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 
-Visualització: 
+Visualització: [diabetesMatrixPlot](diabetesMatrixPlot.JPG)
 
 ## 3 -> Tile grid Map
 
